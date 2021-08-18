@@ -12,5 +12,6 @@ export class AppComponent {
     console.log("gettyImages");
     console.log("This is a new Project");
     console.log("This is stash");
+    console.log("This is a Patch File");
   }
 }
