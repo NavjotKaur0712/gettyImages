@@ -10,5 +10,6 @@ export class AppComponent {
   
   ngOnInit(){
     console.log("gettyImages");
+    console.log("This is a new Project");
   }
 }
