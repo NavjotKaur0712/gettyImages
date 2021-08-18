@@ -1,0 +1,35 @@
+.footer{
+    display:flex;
+    background-color:#6f43d6;
+    height:360px;
+    
+}
+
+.align-memb{
+     margin:60px;
+     color: #fff;
+    
+}
+.footer-logo{
+    color: whitesmoke;
+    margin-left:60px;
+    margin-top:60px;
+}
+.horizontal{
+    color: #fff;
+}
+
+
+/* .footer-members{
+    display:flex;
+    flex-direction: row;
+    margin:10px;
+  
+} */
+
+
+/* .footer-content{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+} */
