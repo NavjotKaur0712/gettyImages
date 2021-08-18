@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'gettyImages';
   
   ngOnInit(){
-    console.log(this.title);
+    console.log("gettyImages");
   }
 }
